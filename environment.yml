@@ -1,4 +1,4 @@
-name: lstm_pred
+name: climate4grid
 channels:
   - pytorch
   - defaults
