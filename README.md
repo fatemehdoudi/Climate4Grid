@@ -3,7 +3,7 @@ This repo contains the code for "Impact of Simulated Climate Data on Wind Power 
 The required packages can be installed and activated by:
 ```
 conda env create -f environment.yml
-conda activate in-context-learning
+conda activate climate4grid
 ```
 
 
