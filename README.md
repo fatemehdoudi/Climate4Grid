@@ -5,6 +5,6 @@ The required packages can be installed and activated by:
 conda env create -f environment.yml
 conda activate climate4grid
 ```
-Section2 contains the wind speed analysis. It includes a detailed probability distribution analysis and compares the use of climate data for historical generation with other methodologies.
+Section 2 covers the wind speed analysis. It provides a detailed probability distribution analysis and compares the use of climate data for historical generation through wind speed profiles against historical datasets. Additionally, it includes a seasonal comparison of both high-resolution (HR) and low-resolution (LR) datasets with the historical data.
 
-
+Section 3 contains the model to train an MLP to predict the generation. 
