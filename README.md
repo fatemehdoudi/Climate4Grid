@@ -11,4 +11,4 @@ Section 2 covers the wind speed analysis. It provides a detailed probability dis
 Section 3 contains the model to train an MLP to predict the generation. 
 
 # Maintainers
-* [Fatemeh Doudi]([https://fatemehdoudi.github.io/])
+* [Fatemeh Doudi](https://fatemehdoudi.github.io/)
