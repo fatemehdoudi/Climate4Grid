@@ -5,6 +5,6 @@ The required packages can be installed and activated by:
 conda env create -f environment.yml
 conda activate climate4grid
 ```
-
+Section2 contains the wind speed analysis. It includes a detailed probability distribution analysis and compares the use of climate data for historical generation with other methodologies.
 
 
